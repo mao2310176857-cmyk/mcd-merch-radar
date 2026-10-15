@@ -1,0 +1,16 @@
+# 不提交真实凭证 / 本地配置
+.mcp.json
+mcp.json
+.env
+*.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
